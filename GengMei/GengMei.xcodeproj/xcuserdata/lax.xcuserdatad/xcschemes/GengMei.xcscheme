@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "57DF9F321DF6E37F000D5FEA"
+               BlueprintIdentifier = "5769604B1DF6EF4900731835"
                BuildableName = "GengMei.app"
                BlueprintName = "GengMei"
                ReferencedContainer = "container:GengMei.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "57DF9F321DF6E37F000D5FEA"
+            BlueprintIdentifier = "5769604B1DF6EF4900731835"
             BuildableName = "GengMei.app"
             BlueprintName = "GengMei"
             ReferencedContainer = "container:GengMei.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "57DF9F321DF6E37F000D5FEA"
+            BlueprintIdentifier = "5769604B1DF6EF4900731835"
             BuildableName = "GengMei.app"
             BlueprintName = "GengMei"
             ReferencedContainer = "container:GengMei.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "57DF9F321DF6E37F000D5FEA"
+            BlueprintIdentifier = "5769604B1DF6EF4900731835"
             BuildableName = "GengMei.app"
             BlueprintName = "GengMei"
             ReferencedContainer = "container:GengMei.xcodeproj">
